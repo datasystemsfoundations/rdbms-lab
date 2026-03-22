@@ -17,7 +17,7 @@ All generated artifacts (images, `.db` files, `.dot` files) are written to `_out
 
 ```bash
 # 1. Install dependencies
-./setup.sh
+bash setup.sh
 
 # 2. Activate the virtual environment
 source .venv/bin/activate
